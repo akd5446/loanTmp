@@ -1,0 +1,12 @@
+# Gradle
+.gradle/
+
+# Build
+build/
+out/
+
+#Intellij
+.idea/
+loanTmp.iml
+loanTmp.ipr
+loanTmp.iws
